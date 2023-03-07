@@ -1,2 +1,1 @@
-# CHRND7
-### DESAFIO 7
+# DESAFIO 7
